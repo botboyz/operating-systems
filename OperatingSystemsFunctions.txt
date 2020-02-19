@@ -1,0 +1,3 @@
+One operating system function is to work on converting the keyboard types into readable text on the screen. It converts from binary to easier to read language like english.
+Another operating system function is the sound card and projecting the sound data to a presentable sound for all others to hear. The speakers are a cool hardware connection for the software.
+The last operating system function that i want to talk about is keeping apps efficient. The internal pieces help to delegate and efficiently use space on the computer.
